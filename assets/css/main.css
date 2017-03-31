@@ -2064,7 +2064,7 @@
 		#logo .image {
 			position: absolute;
 			left: 10px;
-			top: 50px;
+			top: -100px;
 		}
 
 	#nav ul {
