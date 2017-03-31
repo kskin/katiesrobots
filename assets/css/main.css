@@ -2044,7 +2044,7 @@
 
 		#logo h1 {
 		    position: relative;
-		    top: 100;
+		    top: -200;
 			color: #fff;
 			font-weight: 600;
 			font-size: 1em;
@@ -2053,7 +2053,7 @@
 
 		#logo p {
 		    position: relative;
-		    top: 100;
+		    top: -200;
 			display: block;
 			font-size: 0.6em;
 			color: rgba(255, 255, 255, 0.5);
