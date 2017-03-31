@@ -1713,8 +1713,8 @@
 		}
 
 			.image.avatar48 img {
-				width: 100px;
-				height: 100px;
+				width: 200px;
+				height: 200px;
 			}
 
 		.image.fit {
@@ -2043,7 +2043,8 @@
 	}
 
 		#logo h1 {
-			position: relative;
+		    position: relative;
+		    top: 100;
 			color: #fff;
 			font-weight: 600;
 			font-size: 1em;
@@ -2051,7 +2052,8 @@
 		}
 
 		#logo p {
-			position: relative;
+		    position: relative;
+		    top: 100;
 			display: block;
 			font-size: 0.6em;
 			color: rgba(255, 255, 255, 0.5);
@@ -2061,7 +2063,7 @@
 
 		#logo .image {
 			position: absolute;
-			left: 0;
+			left: 100;
 			top: 0;
 		}
 
